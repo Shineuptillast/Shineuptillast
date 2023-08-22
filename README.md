@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aifuturistic" target="blank"><img src="https://img.shields.io/twitter/follow/aifuturistic?logo=twitter&style=for-the-badge" alt="aifuturistic" /></a> </p>
 
-- 🔭 I’m currently working on **Data Migration from OLTP To OLAP**
+- 🔭 I’m currently working on **Data Migration from OLTP To OLAP datawarehouse**
 
 - 🌱 I’m currently learning **Terraform, Azure Cloud**
 
